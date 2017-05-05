@@ -5,7 +5,7 @@
 ```
     $ workon myvirtualenv                                  [Optional]
 	$ pip install -r requirements.txt
-	$ python arima_model.py <input-dir> <output-dir>
+	$ python arima_model.py 
 ```
 
 
